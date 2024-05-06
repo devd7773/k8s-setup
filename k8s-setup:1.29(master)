@@ -1,6 +1,5 @@
 #!/bin/bash
 sudo hostname Master
-bash
 
 sudo apt-get update -y
 sudo apt-get install -y apt-transport-https ca-certificates curl gpg
